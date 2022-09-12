@@ -1,0 +1,59 @@
+img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.d-flex {
+    display:flex
+}
+
+.space-evenly {
+    justify-content: space-between;
+    margin-right: 65%;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    background-color: #96D4D4;
+}
+
+th {
+    color: rgb(177, 0, 0);
+}
+
+.img-resize {
+    max-height: 100px;
+    max-width: 100px;
+    margin-left: 2%;
+}
+
+.iblock {
+    display: inline-block;
+}
+
+.underline {
+    text-decoration: underline;
+    color: blue;
+}
+
+textarea {
+    resize: none;
+}
+
+.space {
+    margin-top: 10px;
+}
+
+.removebullet {
+    list-style-type: none;
+}
+
+.iconsize {
+    height: 25px;
+    width: 25px;
+}
+
