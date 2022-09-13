@@ -1,0 +1,49 @@
+.container {
+    background-color: blanchedalmond;
+    border: 2px solid red;
+    height: 850px;
+    width: 800px;
+    padding: 10px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+#box1 {
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 15px;
+}
+
+#box2 {
+    background-color: slateblue;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+    margin: 10px;
+}
+
+#box3 {
+    background-color: teal;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+    margin: 10px;
+}
+
+p {
+    text-align: center;
+}

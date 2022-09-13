@@ -1,0 +1,43 @@
+* {
+    padding: 10px;
+}
+
+
+.block {
+    display: block;
+}
+
+.width {
+    width: 25%;
+}
+
+button {
+    margin: 2%;
+}
+
+#search {
+    color: rgb(52, 169, 170);
+    background-color: rgb(245, 245, 245);
+    border: 2px solid rgb(52, 169, 170);
+    border-radius: 25px;
+}
+
+#plus {
+    color: white;
+    background-color: rgb(0, 209, 178);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid rgb(0, 209, 178);
+    font-size: 25px;
+    overflow: hidden;
+}
+
+#create {
+    color: white;
+    background-color: rgb(43, 120, 228);
+    border: 3px solid black;
+    font-size: large;
+    box-shadow: 3px 4px 2px black;
+
+}

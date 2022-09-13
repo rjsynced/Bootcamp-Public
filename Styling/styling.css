@@ -1,0 +1,30 @@
+* {
+    padding: 10px;
+}
+
+.bannerblack {
+    background-color: black;
+}
+
+.whitetext {
+    color: white;
+}
+
+h2 {
+    background-color: rgb(102, 51, 153);
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h3 {
+    background-color: rgb(159, 197, 248);
+    text-align: right;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+span {
+    padding-left: 0%;
+}
