@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 500px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 10px;
+    /* box-shadow: 0 10px 20px 5px; */
+    overflow: hidden;
+}
+
+.card-top {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 550px;
+    height: 80px;
+    background: rgb(23, 162, 184);
+}
+
+.container {
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    top: 100px;
+}
+
+.avatar-holder {
+    position: absolute;
+    margin: auto;
+    top: 40px;
+    right: 350px;
+    left: 0;
+    width: 100px;
+    height: 100px;
+}
+
+.text {
+    color: rgb(8, 83, 148);
+    text-decoration: underline;
+}

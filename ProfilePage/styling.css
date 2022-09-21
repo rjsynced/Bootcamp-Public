@@ -1,0 +1,204 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+    padding-left: 14%;
+    padding-right: 14%;
+}
+
+li {
+    float: left;
+    padding: 10px;
+}
+
+li a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+
+.right {
+    float: right;
+}
+
+.button {
+    color: white;
+    background-color: rgb(23, 162, 184);
+    margin: 10px;
+}
+
+#main-content {
+    height: 800px;
+    width: 80%;
+    margin-left: 150px;
+    margin-right: auto;
+}
+
+#left-topcard {
+    background-color: white;
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.left-topcontent {
+    margin-top: 35px;
+    padding: 10px;
+}
+
+
+#right-topcard {
+    background-color: white;
+    display: inline-block;
+    width: 33%;
+    height: 120px;
+    vertical-align: top;
+    border: 2px solid black;
+    margin: 10px 10px 0px 10px;
+}
+
+.topstripe {
+    background-color: rgb(23, 162, 184);
+    height: 50px;
+}
+
+label {
+    padding: 5px;
+    vertical-align: middle;
+}
+
+#picture {
+    border: 1px solid black;
+    border-radius: 50px;
+    position: absolute;
+    left: calc(24% - 50px);
+    top: calc(24% - 50px);
+    width: 65px;
+    height: 65px;
+}
+
+.colorh1 {
+    color: white;
+    background-color: rgb(51, 51, 51);
+    font-size: 22px;
+}
+
+.fakeicon {
+    text-align: center;
+    border: 1px solid black;
+    height: 25px;
+    width: 25px;
+    border-radius: 60px;
+    color: black;
+    background-color: rgb(204, 204, 204);
+
+}
+
+.frenn1, .frenn2 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2px;
+    margin: 5px;
+}
+
+.bot-content{
+    display: flex;
+}
+
+#left-botcard{
+    background-color: white;
+    display: inline-block;
+    width: 45%;
+    height: 140px;
+    vertical-align: top;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#right-botcard {
+    background-color: white;
+    display: inline-block;
+    width: 33%;
+    border: 2px solid black;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    bottom: 90px;
+}
+
+.education-font {
+    font-size: small;
+    padding: 10px;
+}
+
+.education {
+    font-size: 12px;
+    color: rgb(147, 147, 147);
+    padding: 10px;
+}
+
+.title-font {
+    font-size: 18px;
+}
+
+.smallerfont {
+    font-size: 12px;
+    padding: 10px;
+}
+
+.extra-padding {
+    padding: 8px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.connect1 {
+    display: flex;
+    align-items: center;
+    padding: 3px;
+    margin-left: 15px;
+}
+
+.margin-space {
+    margin-left: 10px;
+}
+
+.secondborder {
+    background-color: white;
+    border-top: 2px solid black;
+    color: rgb(20, 87, 150);
+    text-decoration: underline;
+    padding-left: 25px;
+}
+
+.iconedit {
+    font-size: small;
+    color: black;
+    background-color: rgb(204, 204, 204);
+    border-radius: 50%;
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+}
+
+.headingspace {
+    padding-left: 15px;
+}
+
